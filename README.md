@@ -2,6 +2,11 @@
 ## HTML & CSS-
 https://tolv.dk/
 
+## KEYPOINT
+
+1. layout : scroll & two columns
+2. layout : gallery with grid
+3. arrangement : position(relative && absolute)
 
 ## Flexbox:
  flex-direction
