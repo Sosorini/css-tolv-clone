@@ -11,30 +11,30 @@ https://tolv.dk/
 3. arrangement : position(relative && absolute)
 
 ## Flexbox:
- flex-direction
- justify-content
- align-items
- align-content  
+ flex-direction  
+ justify-content  
+ align-items  
+ align-content    
    
 ## Grid:
- grid-template-columns
- grid-template-rows
- gap
- grid-template-areas
- justify-items
- align-items  
+ grid-template-columns  
+ grid-template-rows  
+ gap  
+ grid-template-areas  
+ justify-items  
+ align-items    
 
 ## Keywords & Functions:
- repeat
- fr  
+ repeat  
+ fr    
 
 ## SCSS:
- Variables
- Nesting
- Extend
- Mixins
+ Variables  
+ Nesting  
+ Extend  
+ Mixins  
 
- ## REMAINED ISSUES
- - scroll event - header  (JS)  
- - scroll event - y-position (JS)  
- - window top/bottom event (JS)
+ ## REMAINED ISSUES 
+ - scroll event - header  (JS)    
+ - scroll event - y-position (JS)    
+ - window top/bottom event (JS)  
